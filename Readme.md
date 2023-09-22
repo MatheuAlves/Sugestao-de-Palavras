@@ -58,7 +58,7 @@ Após a conclusão dessa etapa essas palavras serão inseridas em três estrutur
 ## OutPut
 
 <p align="center">
-  <img src="img/Output.png" width="200" title="stopwords">
+  <img src="img/Output.png" width="2000" title="stopwords">
 </p>
 
 ## Conclusão

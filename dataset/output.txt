@@ -1,0 +1,168 @@
+O arquivo txt1 não contém a palavra pois
+-----------------------------------------------------------------------------
+Arquivo: txt2 | Palavra: pois
+-----------------------------------------------------------------------------
+Heap: 2
+
+
+Top 20 Palavras não ordenadas:
+
+1	mas:	96 ocorrências
+2	pode:	96 ocorrências
+3	imanente:	109 ocorrências
+4	sobre:	114 ocorrências
+5	princípio:	97 ocorrências
+6	segundo:	114 ocorrências
+7	sentido:	111 ocorrências
+8	pensamento:	115 ocorrências
+9	mundo:	144 ocorrências
+10	priori:	144 ocorrências
+11	modo:	129 ocorrências
+12	sistema:	119 ocorrências
+13	não:	464 ocorrências
+14	mais:	133 ocorrências
+15	nos:	265 ocorrências
+16	entre:	129 ocorrências
+17	condição:	133 ocorrências
+18	sujeito:	154 ocorrências
+19	à:	214 ocorrências
+20	teoria:	192 ocorrências
+Ordem de input:{[648 mas 96][1038 pode 96][3839 imanente 109][1592 sobre 114][3594 princípio 97][3021 segundo 114][3013 sentido 111][5984 pensamento 115][1628 mundo 144][2299 priori 144][1075 modo 129][2972 sistema 119][153 não 464][1078 mais 133][677 nos 265][1630 entre 129][372 condição 133][3069 sujeito 154][-253 à 214][2214 teoria 192]}
+Pre Ordem Binária: { [-253 à 214][372 condição 133][153 não 464][677 nos 265][1078 mais 133][1075 modo 129][2214 teoria 192][1630 entre 129][2972 sistema 119][2299 priori 144][1628 mundo 144][3013 sentido 111][3069 sujeito 154][3021 segundo 114][3594 princípio 97][1592 sobre 114][5984 pensamento 115][3839 imanente 109][1038 pode 96][648 mas 96]}
+Pre Ordem AVL: { [-253 à 214][372 condição 133][153 não 464][677 nos 265][648 mas 96][1078 mais 133][1075 modo 129][1038 pode 96][1628 mundo 144][2214 teoria 192][1630 entre 129][2972 sistema 119][2299 priori 144][3069 sujeito 154][3021 segundo 114][5984 pensamento 115][3839 imanente 109][3594 princípio 97][3013 sentido 111][1592 sobre 114]}
+Pre Ordem Huffman: { [nos 265] [condição 133] [mundo 144] [priori 144] [sujeito 154] [teoria 192] [mas 96] [pode 96] [princípio 97] [imanente 109] [à 214] [sentido 111] [sobre 114] [segundo 114] [pensamento 115] [não 464] [sistema 119] [modo 129] [entre 129] [mais 133] }
+-----------------------------------------------------------------------------
+O arquivo txt3 não contém a palavra pois
+-----------------------------------------------------------------------------
+O arquivo txt4 não contém a palavra pois
+-----------------------------------------------------------------------------
+O arquivo txt5 não contém a palavra pois
+-----------------------------------------------------------------------------
+O arquivo txt6 não contém a palavra pois
+-----------------------------------------------------------------------------
+O arquivo txt1 não contém a palavra hoje
+-----------------------------------------------------------------------------
+O arquivo txt2 não contém a palavra hoje
+-----------------------------------------------------------------------------
+O arquivo txt3 não contém a palavra hoje
+-----------------------------------------------------------------------------
+O arquivo txt4 não contém a palavra hoje
+-----------------------------------------------------------------------------
+O arquivo txt5 não contém a palavra hoje
+-----------------------------------------------------------------------------
+O arquivo txt6 não contém a palavra hoje
+-----------------------------------------------------------------------------
+O arquivo txt1 não contém a palavra filosofia
+-----------------------------------------------------------------------------
+Arquivo: txt2 | Palavra: filosofia
+-----------------------------------------------------------------------------
+Heap: 2
+
+
+Top 20 Palavras não ordenadas:
+
+1	ainda:	1235 ocorrências
+2	mesmo:	1237 ocorrências
+3	melhor:	1239 ocorrências
+4	entre:	1325 ocorrências
+5	podemos:	1241 ocorrências
+6	impacto:	1394 ocorrências
+7	pode:	1354 ocorrências
+8	informações:	1395 ocorrências
+9	segurança:	1340 ocorrências
+10	sistema:	1691 ocorrências
+11	utilização:	1598 ocorrências
+12	nos:	2665 ocorrências
+13	processo:	1498 ocorrências
+14	modo:	1453 ocorrências
+15	sobre:	1408 ocorrências
+16	sentido:	1669 ocorrências
+17	assim:	1858 ocorrências
+18	desenvolvimento:	1360 ocorrências
+19	mais:	1993 ocorrências
+20	não:	3526 ocorrências
+Ordem de input:{[1522 ainda 1235][1647 mesmo 1237][2290 melhor 1239][1630 entre 1325][3054 podemos 1241][3015 impacto 1394][1038 pode 1354][2961 informações 1395][2697 segurança 1340][2972 sistema 1691][1442 utilização 1598][677 nos 2665][3957 processo 1498][1075 modo 1453][1592 sobre 1408][3013 sentido 1669][1637 assim 1858][13192 desenvolvimento 1360][1078 mais 1993][153 não 3526]}
+Pre Ordem Binária: { [153 não 3526][677 nos 2665][1078 mais 1993][1075 modo 1453][1442 utilização 1598][1038 pode 1354][1592 sobre 1408][1637 assim 1858][1630 entre 1325][2697 segurança 1340][3013 sentido 1669][2972 sistema 1691][2961 informações 1395][3015 impacto 1394][13192 desenvolvimento 1360][3957 processo 1498][3054 podemos 1241][2290 melhor 1239][1647 mesmo 1237][1522 ainda 1235]}
+Pre Ordem AVL: { [153 não 3526][677 nos 2665][1078 mais 1993][1075 modo 1453][1038 pode 1354][1522 ainda 1235][1637 assim 1858][1630 entre 1325][1592 sobre 1408][1442 utilização 1598][2290 melhor 1239][2697 segurança 1340][3013 sentido 1669][2972 sistema 1691][3054 podemos 1241][13192 desenvolvimento 1360][3957 processo 1498][3015 impacto 1394][2961 informações 1395][1647 mesmo 1237]}
+Pre Ordem Huffman: { [sobre 1408] [modo 1453] [processo 1498] [utilização 1598] [sentido 1669] [sistema 1691] [não 3526] [assim 1858] [mais 1993] [ainda 1235] [mesmo 1237] [melhor 1239] [podemos 1241] [nos 2665] [entre 1325] [segurança 1340] [pode 1354] [desenvolvimento 1360] [impacto 1394] [informações 1395] }
+-----------------------------------------------------------------------------
+O arquivo txt3 não contém a palavra filosofia
+-----------------------------------------------------------------------------
+O arquivo txt4 não contém a palavra filosofia
+-----------------------------------------------------------------------------
+O arquivo txt5 não contém a palavra filosofia
+-----------------------------------------------------------------------------
+O arquivo txt6 não contém a palavra filosofia
+-----------------------------------------------------------------------------
+O arquivo txt1 não contém a palavra ti
+-----------------------------------------------------------------------------
+O arquivo txt2 não contém a palavra ti
+-----------------------------------------------------------------------------
+O arquivo txt3 não contém a palavra ti
+-----------------------------------------------------------------------------
+O arquivo txt4 não contém a palavra ti
+-----------------------------------------------------------------------------
+Arquivo: txt5 | Palavra: ti
+-----------------------------------------------------------------------------
+Heap: 5
+
+
+Top 20 Palavras não ordenadas:
+
+1	melhor:	2163 ocorrências
+2	ainda:	2223 ocorrências
+3	entre:	2325 ocorrências
+4	modo:	2516 ocorrências
+5	mesmo:	2227 ocorrências
+6	sobre:	2454 ocorrências
+7	pode:	2382 ocorrências
+8	impacto:	2549 ocorrências
+9	processo:	2748 ocorrências
+10	podemos:	2235 ocorrências
+11	segurança:	2412 ocorrências
+12	desenvolvimento:	2501 ocorrências
+13	utilização:	2796 ocorrências
+14	informações:	2552 ocorrências
+15	mais:	3520 ocorrências
+16	nos:	4532 ocorrências
+17	sentido:	2982 ocorrências
+18	sistema:	2945 ocorrências
+19	assim:	3343 ocorrências
+20	não:	5857 ocorrências
+Ordem de input:{[2290 melhor 2163][1522 ainda 2223][1630 entre 2325][1075 modo 2516][1647 mesmo 2227][1592 sobre 2454][1038 pode 2382][3015 impacto 2549][3957 processo 2748][3054 podemos 2235][2697 segurança 2412][13192 desenvolvimento 2501][1442 utilização 2796][2961 informações 2552][1078 mais 3520][677 nos 4532][3013 sentido 2982][2972 sistema 2945][1637 assim 3343][153 não 5857]}
+Pre Ordem Binária: { [153 não 5857][677 nos 4532][1038 pode 2382][1078 mais 3520][1442 utilização 2796][1075 modo 2516][1592 sobre 2454][1637 assim 3343][1647 mesmo 2227][1630 entre 2325][1522 ainda 2223][2972 sistema 2945][3013 sentido 2982][2961 informações 2552][2697 segurança 2412][3054 podemos 2235][13192 desenvolvimento 2501][3957 processo 2748][3015 impacto 2549][2290 melhor 2163]}
+Pre Ordem AVL: { [153 não 5857][1038 pode 2382][677 nos 4532][1078 mais 3520][1075 modo 2516][1592 sobre 2454][1522 ainda 2223][1442 utilização 2796][1637 assim 3343][1647 mesmo 2227][2697 segurança 2412][2290 melhor 2163][2972 sistema 2945][3013 sentido 2982][3054 podemos 2235][13192 desenvolvimento 2501][3957 processo 2748][3015 impacto 2549][2961 informações 2552][1630 entre 2325]}
+Pre Ordem Huffman: { [impacto 2549] [informações 2552] [processo 2748] [utilização 2796] [não 5857] [sistema 2945] [sentido 2982] [assim 3343] [mais 3520] [melhor 2163] [ainda 2223] [mesmo 2227] [podemos 2235] [nos 4532] [entre 2325] [pode 2382] [segurança 2412] [sobre 2454] [desenvolvimento 2501] [modo 2516] }
+-----------------------------------------------------------------------------
+Arquivo: txt6 | Palavra: ti
+-----------------------------------------------------------------------------
+Heap: 6
+
+
+Top 20 Palavras não ordenadas:
+
+1	ainda:	2356 ocorrências
+2	mesmo:	2360 ocorrências
+3	pode:	2516 ocorrências
+4	melhor:	2364 ocorrências
+5	podemos:	2368 ocorrências
+6	sobre:	2588 ocorrências
+7	impacto:	2748 ocorrências
+8	informações:	2752 ocorrências
+9	entre:	2392 ocorrências
+10	sistema:	3144 ocorrências
+11	utilização:	3196 ocorrências
+12	modo:	2648 ocorrências
+13	nos:	4800 ocorrências
+14	processo:	2880 ocorrências
+15	sentido:	3116 ocorrências
+16	mais:	3720 ocorrências
+17	assim:	3544 ocorrências
+18	desenvolvimento:	2700 ocorrências
+19	segurança:	2680 ocorrências
+20	não:	6124 ocorrências
+Ordem de input:{[1522 ainda 2356][1647 mesmo 2360][1038 pode 2516][2290 melhor 2364][3054 podemos 2368][1592 sobre 2588][3015 impacto 2748][2961 informações 2752][1630 entre 2392][2972 sistema 3144][1442 utilização 3196][1075 modo 2648][677 nos 4800][3957 processo 2880][3013 sentido 3116][1078 mais 3720][1637 assim 3544][13192 desenvolvimento 2700][2697 segurança 2680][153 não 6124]}
+Pre Ordem Binária: { [153 não 6124][677 nos 4800][1078 mais 3720][1075 modo 2648][1442 utilização 3196][1038 pode 2516][1637 assim 3544][1630 entre 2392][1592 sobre 2588][2697 segurança 2680][3013 sentido 3116][2972 sistema 3144][2961 informações 2752][3015 impacto 2748][13192 desenvolvimento 2700][3957 processo 2880][3054 podemos 2368][2290 melhor 2364][1647 mesmo 2360][1522 ainda 2356]}
+Pre Ordem AVL: { [153 não 6124][1038 pode 2516][677 nos 4800][1078 mais 3720][1442 utilização 3196][1075 modo 2648][1592 sobre 2588][1637 assim 3544][1630 entre 2392][1522 ainda 2356][2697 segurança 2680][2290 melhor 2364][3013 sentido 3116][2972 sistema 3144][2961 informações 2752][3054 podemos 2368][13192 desenvolvimento 2700][3957 processo 2880][3015 impacto 2748][1647 mesmo 2360]}
+Pre Ordem Huffman: { [impacto 2748] [informações 2752] [processo 2880] [sentido 3116] [não 6124] [sistema 3144] [utilização 3196] [assim 3544] [mais 3720] [ainda 2356] [mesmo 2360] [melhor 2364] [podemos 2368] [nos 4800] [entre 2392] [pode 2516] [sobre 2588] [modo 2648] [segurança 2680] [desenvolvimento 2700] }
+-----------------------------------------------------------------------------
